@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oFVm5Rsa1VmGji3hsAeR0VO9M/Zs2p8RPIASvZZ2jII=",
+  "Source": "QrCodeGenerator",
+  "BasePath": "_content/QrCodeGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
